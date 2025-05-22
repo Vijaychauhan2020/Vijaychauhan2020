@@ -1,11 +1,15 @@
 <!-- Hi there! Welcome to my GitHub profile 👋 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+Vijay+Chauhan's+GitHub!;Java+Full+Stack+Developer;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
+</p>
+
 <h1 align="center">
   Hi, I'm Vijay Chauhan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vijaychauhan1020/">
+  <a href="https://www.linkedin.com/in/vijaychauhan1020/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Vijaychauhan2020&style=for-the-badge" alt="profile views" />
@@ -13,7 +17,11 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Vijaychauhan2020/Vijaychauhan2020/main/code.gif" width="350" />
+<div align="center">
+  <img src="https://github.com/Vijaychauhan2020/Vijaychauhan2020/blob/main/assets/wave.svg" alt="wave" width="100%" />
+</div>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
 ### 👨‍💻 About Me
 
@@ -39,12 +47,17 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### ✨ Fun Animated Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijaychauhan2020&show_icons=true&theme=radical" alt="Vijay's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaychauhan2020&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaychauhan2020&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijaychauhan2020&show_icons=true&theme=radical" alt="Vijay's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaychauhan2020&theme=radical" alt="GitHub Streak" height="160"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijaychauhan2020&bg_color=1a1b27&color=ff5e62&line=ffa07a&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vijaychauhan2020&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" width="90%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaychauhan2020&layout=compact&theme=radical" alt="Top Languages" height="110"/>
 </p>
 
 ---
@@ -57,9 +70,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F70000&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Java+Developer;Always+learning+something+new;Let's+build+something+great+together!">
+  <img src="https://raw.githubusercontent.com/Vijaychauhan2020/Vijaychauhan2020/main/assets/dev-working.gif" width="300" alt="Animated developer at work" />
 </p>
 
 <!--
 **Vijaychauhan2020/Vijaychauhan2020** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->    
+-->
