@@ -1,7 +1,7 @@
 <!-- Hi there! Welcome to my GitHub profile 👋 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+Vijay+Chauhan's+GitHub!;Java+Full+Stack+Developer;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+Vijay+Pratap+Singh's+GitHub!;Java+Full+Stack+Developer;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
